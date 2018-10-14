@@ -1,0 +1,10 @@
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\bin\Debug\WForm - Group Stage.exe.config
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\bin\Debug\WForm - Group Stage.exe
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\bin\Debug\WForm - Group Stage.pdb
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm - Group Stage.csprojResolveAssemblyReference.cache
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm___Group_Stage.Properties.Resources.resources
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm - Group Stage.csproj.GenerateResource.cache
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm - Group Stage.csproj.CoreCompileInputs.cache
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm - Group Stage.exe
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm - Group Stage.pdb
+D:\File\Program\C#\WForm - Group Stage\WForm - Group Stage\obj\Debug\WForm___Group_Stage.Form1.resources
